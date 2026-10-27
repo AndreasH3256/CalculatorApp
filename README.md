@@ -21,8 +21,3 @@ An Android calculator built with Kotlin and Jetpack Compose.
 2. Allow Gradle to sync.
 3. Run the app on an Android emulator or compatible Android device.
 
-## Demo Video
-Demo video link: To be added.
-
-## Debug APK
-After building the project, the debug APK is located at `app/build/outputs/apk/debug/app-debug.apk`.
